@@ -20,6 +20,5 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats-kaushikkrdy.vercel.app/api?username=kaushikkrdy&theme=dark&hide_border=false&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaushikkrdy&theme=dark&hide_border=false)<br/>
 
