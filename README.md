@@ -1,7 +1,7 @@
 # 💫 About Me
 ## Hey 👋 I'm Kaushik
 
-👨🏽‍🎓 Final Year Computer Science Student @ National University of Singapore
+👨🏽‍🎓 Computer Science Graduate from National University of Singapore
 
 
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushikkrdy) [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kaushikkr@hotmail.com)
